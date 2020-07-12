@@ -10,6 +10,7 @@ Once the app starts, go to the web browser and visit http://localhost:8070/admin
 To enter H2: http://localhost:8070/h2-console/  
 jdbc:h2:mem:2020db
 username:root
+
 password:iszwan
 
 
